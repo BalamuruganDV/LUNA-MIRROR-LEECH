@@ -5,10 +5,9 @@
 
 ## 𝙻𝚄𝙽𝙰-𝙼𝙸𝚁𝚁𝙾𝚁-𝙱𝙾𝚃
 ![GitHub Repo stars](https://img.shields.io/github/stars/BalamuruganDV/LUNA-MIRROR-LEECH?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-mirrorbot)
-![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
+![GitHub forks](https://img.shields.io/github/forks/BalamuruganDV/LUNA-MIRROR-LEECH?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/BalamuruganDV/LUNA-MIRROR-LEECH?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/BalamuruganDV/LUNA-MIRROR-LEECH)
 
 **LUNA Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
