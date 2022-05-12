@@ -1,9 +1,9 @@
 ```diff 
 - [ DEAD REPO AND NO MORE UPDATE ]
 ```
-[![SlamDevs](https://telegra.ph/file/be1900eb55a37c40a9212.jpg)(https://t.me/SlamDevs)
+[![Luna-mirror](https://telegra.ph/file/be1900eb55a37c40a9212.jpg)
 
-# Slam Mirror Bot
+## 𝙻𝚄𝙽𝙰-𝙼𝙸𝚁𝚁𝙾𝚁-𝙱𝙾𝚃
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot?style=flat)
@@ -16,7 +16,7 @@
 <details>
     <summary><b>Click Here For More Details</b></summary>
 
-## By Slam Devs
+## 𝙱𝚈 𝙱𝙰𝙻𝙰𝙼𝚄𝚁𝚄𝙶𝙰𝙽
 - qBittorrent
 - Leech supported
 - Thumbnail supported
@@ -363,5 +363,3 @@ Thanks to:
 - [`zevtyardt`](https://github.com/zevtyardt) for some direct links
 - [`yash-dk`](https://github.com/yash-dk) for implementation of qBittorrent on Python
 - [`xyou365`](https://github.com/xyou365) for Service Accounts script
-
-And many more people who aren't mentioned here, but can be found in [Contributors](https://github.com/breakdowns/slam-mirrorbot/graphs/contributors).
