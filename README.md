@@ -1,7 +1,7 @@
 ```diff 
 - [ DEAD REPO AND NO MORE UPDATE ]
 ```
-[![SlamDevs](https://telegra.ph/file/7b35679286bd7c11eb7aa.jpg)(https://t.me/SlamDevs)
+[![SlamDevs](https://telegra.ph/file/be1900eb55a37c40a9212.jpg)(https://t.me/SlamDevs)
 
 # Slam Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
