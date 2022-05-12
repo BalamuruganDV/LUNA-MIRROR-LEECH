@@ -4,7 +4,7 @@
 [![Luna-mirror](https://telegra.ph/file/be1900eb55a37c40a9212.jpg)
 
 ## 𝙻𝚄𝙽𝙰-𝙼𝙸𝚁𝚁𝙾𝚁-𝙱𝙾𝚃
-![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/BalamuruganDV/LUNA-MIRROR-LEECH?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot?style=flat)
 ![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-mirrorbot)
