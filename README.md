@@ -1,7 +1,7 @@
 
 
 
-[![Luna-mirror](https://telegra.ph/file/be1900eb55a37c40a9212.jpg)
+[![Luna-mirror](https://telegra.ph/file/9f37f4ec1f06c06a4e4e6.jpg)
 
 ## 𝙻𝚄𝙽𝙰-𝙼𝙸𝚁𝚁𝙾𝚁-𝙱𝙾𝚃
 ![GitHub Repo stars](https://img.shields.io/github/stars/BalamuruganDV/LUNA-MIRROR-LEECH?color=blue&style=flat)
